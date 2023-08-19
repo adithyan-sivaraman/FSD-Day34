@@ -1,0 +1,52 @@
+[
+    {
+        "taskId":1,
+        "taskName":"Short Notes on Difference between ECMA 5 vs ECMA 6",
+        "taskDate":"2020-10-10"
+    },
+    {
+        "taskId":2,
+        "taskName":"Create a resume in JSON format",
+        "taskDate":"2020-10-12"
+    },
+    {
+        "taskId":3,
+        "taskName":"Use REST Countries API to display names,regions and flags",
+        "taskDate":"2020-10-13"
+    },
+    {
+        "taskId":4,
+        "taskName":"Use any three public APIs to display data in html page",
+        "taskDate":"2020-10-15"
+    },
+    {
+        "taskId":5,
+        "taskName":"Short Notes on Difference between ECMA 5 vs ECMA 6",
+        "taskDate":"2020-10-20"
+    },
+    {
+        "taskId":6,
+        "taskName":"Short Notes on Difference between ECMA 5 vs ECMA 6",
+        "taskDate":"2020-10-21"
+    },
+    {
+        "taskId":7,
+        "taskName":"Design a Calculator using Javascript event listeners",
+        "taskDate":"2020-10-22"
+    },
+    {
+        "taskId":7,
+        "taskName":"SB Admin Dashboard",
+        "taskDate":"2020-10-23"
+    },
+    {
+        "taskId":9,
+        "taskName":"Teachers and Students SB Admin Dashboard CRUD", 
+        "taskDate":"2020-10-29"
+    },
+    {
+        "taskId":10,
+        "taskName":"Design a DB for IMDB",
+        "taskDate":"2020-11-01"
+    }
+]

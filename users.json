@@ -1,0 +1,122 @@
+[
+    {
+      "userId": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "dateOfJoin": "2022-03-15",
+      "password": "aBcD1234",
+      "score": 85,
+      "ranking": 7,
+      "problemsSolved":10,
+      "batchNo": 3,
+      "mentorID": [1,3,5]
+    },
+    {
+      "userId": 2,
+      "name": "Bob",
+      "email": "bob@test.org",
+      "dateOfJoin": "2021-11-02",
+      "password": "xYzZ5678",
+      "score": 92,
+      "ranking": 2,
+      "problemsSolved":45,
+      "batchNo": 2,
+      "mentorID": [2,4,5]
+    },
+    {
+      "userId": 3,
+      "name": "Charlie",
+      "email": "charlie@sample.net",
+      "dateOfJoin": "2023-02-10",
+      "password": "PqRs9876",
+      "score": 70,
+      "ranking": 10,
+      "problemsSolved":100,
+      "batchNo": 4,
+      "mentorID": [1,5]
+    },
+    {
+      "userId": 4,
+      "name": "David",
+      "email": "david@example.com",
+      "dateOfJoin": "2022-09-18",
+      "password": "LmNo4321",
+      "score": 78,
+      "ranking": 8,
+      "problemsSolved":150,
+      "batchNo": 3,
+      "mentorID": [1,4]
+    },
+    {
+      "userId": 5,
+      "name": "Emma",
+      "email": "emma@test.org",
+      "dateOfJoin": "2021-05-30",
+      "password": "WxYz8765",
+      "score": 95,
+      "ranking": 1,
+      "problemsSolved":25,
+      "batchNo": 1,
+      "mentorID": [2,3]
+    },
+    {
+      "userId": 6,
+      "name": "Fiona",
+      "email": "fiona@sample.net",
+      "dateOfJoin": "2022-11-20",
+      "password": "AaBb5678",
+      "score": 60,
+      "ranking": 12,
+      "problemsSolved":250,
+      "batchNo": 4,
+      "mentorID": [1,2,3,5]
+    },
+    {
+      "userId": 7,
+      "name": "George",
+      "email": "george@example.com",
+      "dateOfJoin": "2023-06-05",
+      "password": "XyZz1234",
+      "score": 82,
+      "ranking": 5,
+      "problemsSolved":12,
+      "batchNo": 2,
+      "mentorID": [2,5]
+    },
+    {
+      "userId": 8,
+      "name": "Hannah",
+      "email": "hannah@test.org",
+      "dateOfJoin": "2022-01-25",
+      "password": "MnOp5678",
+      "score": 73,
+      "ranking": 9,
+      "problemsSolved":60,
+      "batchNo": 3,
+      "mentorID": [4,5]
+    },
+    {
+      "userId": 9,
+      "name": "Isaac",
+      "email": "isaac@sample.net",
+      "dateOfJoin": "2021-07-12",
+      "password": "QwEr8765",
+      "score": 88,
+      "ranking": 4,
+      "problemsSolved":22,
+      "batchNo": 1,
+      "mentorID": [1,2]
+    },
+    {
+      "userId": 10,
+      "name": "Julia",
+      "email": "julia@example.com",
+      "dateOfJoin": "2023-04-08",
+      "password": "FgHi4321",
+      "score": 79,
+      "ranking": 6,
+      "problemsSolved":35,
+      "batchNo": 2,
+      "mentorID": [2,4]
+    }
+  ]
